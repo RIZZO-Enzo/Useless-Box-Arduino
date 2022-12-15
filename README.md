@@ -8,9 +8,9 @@ Pour la boite :
   - sinon, une boite en bois déjà construite
   - une tête de peluche
 
-Pour ce qui de l'électronique, nous avons pensé à :
+Pour ce qui des options, nous avons pensé à :
   - faire une boite avec plusieurs modes :
-    -le premier mode serait une useles-box classique avec des "réactions" de la boite aléatoires. (musique, led qui clignote, la boite se déplace,...)
-    -le deuxième mode serait de faire un jeu où l'on doit appuyer sur les boutons indiquer dans un temps imparti et un écran afficherai notre score.
+    - le premier mode serait une useles-box classique avec des "réactions" de la boite aléatoires. (musique, led qui clignote, la boite se déplace,...)
+    - le deuxième mode serait de faire un jeu où l'on doit appuyer sur les boutons indiquer dans un temps imparti et un écran afficherai notre score.
 
 
