@@ -1,0 +1,4 @@
+Aujourd’hui nous avons commençait par revoir nos plans sur Inkscape pour pouvoir découper les planches de bois au laser.
+Mais ne sachant pas la tailles des boutons, …, nous ne voulions pas prendre le risque donc nous attendons d’avoir tout les composant pour faire la boite.
+Ensuite j’ai découvert la soudure pour souder les fils à l’interrupteur. 
+Et j’ai ensuite écrit le code pour que si on allume l’interrupteur, ça active le servomoteur pour l’éteindre.
