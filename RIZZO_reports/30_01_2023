@@ -1,3 +1,10 @@
-Nous avons commence par revoir ce qu'il nous restait a faire en fonction du nombre de seance qu'il nous reste. Ensuite, 
+Nous avons commencé par revoir ce qu'il nous restait à faire en fonction du nombre de séances qu'il nous reste. Ensuite, je suis allé chercher la boite
+J'ai colmaté les trous a l'aide la colle chaude afin de pouvoir lui mettre un habillage par la suite. J'ai ensuite commencé à coder le code qui servira
+pour notre jeu (avec les leds). J'ai donc repris le code que j'avais fait la séance précédente qui allumait les leds en vert et rouge de manière aléatoire.
+Le problème, c'est que les nombres aléatoire genere etait souvent les memes. J'ai donc décidé de faire chaque cas possible. Il m'a fallu chercher comment
+faire pour créer un tableau avec plusieurs lignes. Par la suite, j'ai fait un programme qui se balade aléatoirement dans mon tableau et choisit un cas pour
+allumer les leds. J'ai ensuite réfléchi comment faire pour que le programme comprenne quand le bon bouton est actionné (celui devant la lumière verte) et
+quand le mauvais bouton est actionne (celui devant la led allumé en rouge. J'ai commencé à écrire le code mais je n'ai pas eu le temps de le terminer.
 
-Jelchweuib
+
+
